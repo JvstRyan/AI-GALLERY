@@ -1,0 +1,160 @@
+* {
+  box-sizing: border-box;
+  background-color: black;
+  zoom: 90%;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+
+}
+
+#title {
+  color: white;
+  font-size: 120px ;
+  font-weight: bold;
+  font-family: 'Inter', sans-serif;
+  position: absolute;
+  background: none;
+  text-align: left;
+  
+}
+
+#title1 {
+  color: white;
+  font-size: 120px ;
+  font-weight: bold;
+  font-family: 'Inter', sans-serif;
+  display: flex;
+  justify-content: center;
+  background: none;
+  margin-top: 400px ;
+ 
+}
+
+#title2 {
+  color: white;
+  font-size: 120px ;
+  font-weight: bold;
+  font-family: 'Inter', sans-serif;
+  background: none;
+  writing-mode: vertical-rl; 
+  
+}
+
+#para {
+  color: white;
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  list-style: none;
+  position: absolute;
+  margin-top: 150px;
+  background: none;
+}
+
+#img1 {
+  box-shadow:  
+             19px 19px 38px #bb86bb;
+}
+
+
+#img2 {
+  gap: 40px;
+  width: auto;
+  height: 500px;
+  margin-top: 20px;
+}
+
+#img3 {
+  box-shadow:  
+             10px 10px 20px #5D2463;
+}
+
+#img4 {
+  gap: 40px;
+  width: 500px;
+  height: 500px;
+  margin-top: 20px;
+  
+}
+
+#img7 {
+  box-shadow:  
+             10px 10px 20px #C172E7;
+             
+}
+
+.deep-space {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+
+.future {
+  display: flex;
+  margin-top: 400px;
+  justify-content: center;
+  gap: 40px;
+  height: 700px;
+  
+ 
+}
+
+.center {
+  display: flex;
+  gap: 40px;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.people {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+}
+
+#img9 {
+  box-shadow:  
+             10px 10px 20px #F5BDE8;
+}
+
+.future1 {
+  display: flex;
+  margin-top: 450px;
+  justify-content: center;
+  gap: 40px;
+  height: 700px;
+  
+  
+}
+
+.center1 {
+  display: flex;
+  gap: 40px;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#img11 {
+  box-shadow:  
+             10px 10px 20px #CF10C7;
+}
+
+#space {
+  font-size: 300px;
+}
+
+#img14 {
+  box-shadow:  
+             10px 10px 20px #CA15FB;
+}
